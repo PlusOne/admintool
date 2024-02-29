@@ -8,4 +8,4 @@ admintool.sh
 - show active services/systemd
 - show inactive services/systemd
 - check VPN Port (just checks port on IP)
-- show largest folgder
+- show largest folder
