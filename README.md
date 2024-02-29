@@ -6,6 +6,6 @@ admintool.sh
 - check discspace
 - update/upgrade
 - show active services/systemd
-- show inactive ser4vices/systemd
+- show inactive services/systemd
 - check VPN Port (just checks port on IP)
 - show largest folgder
